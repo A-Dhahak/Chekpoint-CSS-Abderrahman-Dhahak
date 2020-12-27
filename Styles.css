@@ -1,0 +1,67 @@
+h1
+{
+    text-align: center;
+    color: darkturquoise;
+    font-size: 75px;
+    border: 4px blue solid;
+    border-radius: 10px;
+    box-shadow: 7px 7px 10px black;
+    margin: 20px 150px 20px 150px;
+    
+}
+
+.inline
+{
+    display: inline;
+}
+.center
+{
+    text-align: center;
+    font-size: 30px;
+}
+
+h2{
+    color: dodgerblue;
+    font-size: 40px;
+}
+
+@font-face
+{
+    font-family: "Roboto";
+    src: url(Roboto-Medium.ttf);
+}
+
+body{
+    font-family: "Roboto";
+    padding: 20px;
+}
+
+p{
+    color: black;
+    font-size: 20px;
+}
+
+a:hover
+{
+    color : green;
+}
+.titre a
+{
+    text-decoration: none;
+    font-size: 25px;
+}
+.spacing
+{
+    word-spacing: 20px ;
+}
+header{
+    background-color: whitesmoke;
+}
+main
+{
+    background-color: aliceblue;
+}
+footer
+{
+    background-color: cornsilk;
+}
